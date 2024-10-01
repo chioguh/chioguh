@@ -9,7 +9,9 @@
 - ⚡ Fun facts: I'm a classically trained vocalist, a published writer, and can't ride a bike.
 
 #### Topics
-[Library Carpentry](https://github.com/LibraryCarpentry/lc-spreadsheets)
+
+- [Library Carpentry](https://github.com/LibraryCarpentry/lc-spreadsheets)
+- [Digital Audio Library](https://github.com/SHARANTANGEDA/DigitalAudioLibraryLVPEI)
 
 <!--
 **chioguh/chioguh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

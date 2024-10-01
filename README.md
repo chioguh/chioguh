@@ -6,18 +6,8 @@
 - 💬 Ask me about what I'm reading.
 - 📫 How to reach me: co473@drexel.edu
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I'm a classically trained vocalist.
+- ⚡ Fun facts: I'm a classically trained vocalist, a published writer, and can't ride a bike.
 
 <!--
 **chioguh/chioguh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Master's in Library Science.
-- 🌱 I’m currently learning about library programming and data curation.
-- 🤔 I’m looking for advice on earning a teaching certification.
-- 💬 Ask me about what I'm reading.
-- 📫 How to reach me: co473@drexel.edu
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I'm a classically trained vocalist.
 -->

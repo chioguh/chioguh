@@ -8,6 +8,7 @@
 - 😄 Pronouns: they/them
 - ⚡ Fun facts: I'm a classically trained vocalist, a published writer, and can't ride a bike.
 
+#### Topics
 [Library Carpentry](https://github.com/LibraryCarpentry/lc-spreadsheets)
 
 <!--

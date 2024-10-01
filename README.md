@@ -8,7 +8,7 @@
 - 😄 Pronouns: they/them
 - ⚡ Fun facts: I'm a classically trained vocalist, a published writer, and can't ride a bike.
 
-[Library Carpentry] (https://github.com/LibraryCarpentry/lc-spreadsheets)
+[Library Carpentry](https://github.com/LibraryCarpentry/lc-spreadsheets)
 
 <!--
 **chioguh/chioguh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
